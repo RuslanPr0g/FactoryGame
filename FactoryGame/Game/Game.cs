@@ -18,7 +18,6 @@ namespace FactoryGame
             return this;
         }
 
-
         public IGame AddPlayer(IPlayer player)
         {
             _player = player;
@@ -55,6 +54,5 @@ namespace FactoryGame
             var enemy = enemies.Count(item => item.ToString() == name);
             Console.WriteLine($"{enemy} {name}");
         }
-
     }
 }

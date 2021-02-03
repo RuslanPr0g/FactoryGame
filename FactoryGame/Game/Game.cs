@@ -18,6 +18,7 @@ namespace FactoryGame
             return this;
         }
 
+
         public IGame AddPlayer(IPlayer player)
         {
             _player = player;

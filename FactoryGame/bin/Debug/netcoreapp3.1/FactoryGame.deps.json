@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FactoryGame/1.0.0": {
+        "dependencies": {
+          "RandomHelper": "1.0.0"
+        },
+        "runtime": {
+          "FactoryGame.dll": {}
+        }
+      },
+      "RandomHelper/1.0.0": {
+        "runtime": {
+          "RandomHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RandomHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

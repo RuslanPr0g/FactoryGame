@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace FactoryGame
@@ -7,8 +8,6 @@ namespace FactoryGame
     class Game : IGame
     {
         private IEnemiesFactory _factory;
-
-        private IGameWorld _world;
 
         private IPlayer _player;
 

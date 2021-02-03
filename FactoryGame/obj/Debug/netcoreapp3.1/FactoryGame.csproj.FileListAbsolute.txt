@@ -2,3 +2,15 @@ C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\Fa
 C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.AssemblyInfoInputs.cache
 C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.AssemblyInfo.cs
 C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\FactoryGame.exe
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\FactoryGame.deps.json
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\FactoryGame.runtimeconfig.json
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\FactoryGame.runtimeconfig.dev.json
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\FactoryGame.dll
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\FactoryGame.pdb
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\RandomHelper.dll
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\bin\Debug\netcoreapp3.1\RandomHelper.pdb
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.csproj.CopyComplete
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.dll
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.pdb
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.genruntimeconfig.cache

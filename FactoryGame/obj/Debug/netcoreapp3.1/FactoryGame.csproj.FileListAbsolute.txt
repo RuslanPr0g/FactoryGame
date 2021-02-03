@@ -1,0 +1,4 @@
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.AssemblyInfo.cs
+C:\Users\theru\Desktop\FactoryGameProject\FactoryGame\obj\Debug\netcoreapp3.1\FactoryGame.csproj.CoreCompileInputs.cache

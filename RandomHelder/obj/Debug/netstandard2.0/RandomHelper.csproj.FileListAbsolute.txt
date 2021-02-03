@@ -1,0 +1,8 @@
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\bin\Debug\netstandard2.0\RandomHelper.deps.json
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\bin\Debug\netstandard2.0\RandomHelper.dll
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\bin\Debug\netstandard2.0\RandomHelper.pdb
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\obj\Debug\netstandard2.0\RandomHelper.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\obj\Debug\netstandard2.0\RandomHelper.AssemblyInfo.cs
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\obj\Debug\netstandard2.0\RandomHelper.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\obj\Debug\netstandard2.0\RandomHelper.dll
+C:\Users\theru\Desktop\FactoryGameProject\RandomHelder\obj\Debug\netstandard2.0\RandomHelper.pdb

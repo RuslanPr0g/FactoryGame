@@ -20,10 +20,9 @@ namespace FactoryGame
                 Console.WriteLine($"{i + 1}. {levels[i]}");
             }
 
-            int selectedLevel;
             var userEnteredValue = Console.ReadLine();
 
-            var isSuccess = Int32.TryParse(userEnteredValue, out selectedLevel);
+            var isSuccess = Int32.TryParse(userEnteredValue, out int selectedLevel);
 
             if (!isSuccess)
             {
